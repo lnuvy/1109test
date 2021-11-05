@@ -1,0 +1,2531 @@
+[{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db2"
+  },
+  "r_seq": "",
+  "r_word": "학교",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361333&searchKeywordTo=3",
+  "r_hanja": "(學校)",
+  "r_des": "『교육』 일정한 목적ㆍ교과 과정ㆍ설비ㆍ제도 및 법규에 의하여 계속적으로 학생에게 교육을 실시하는 기관.≒학원.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db3"
+  },
+  "r_seq": "1",
+  "r_word": "학원",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=362856&searchKeywordTo=3",
+  "r_hanja": "(學員)",
+  "r_des": "공부하는 인원.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db4"
+  },
+  "r_seq": "2",
+  "r_word": "학원",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=503671&searchKeywordTo=3",
+  "r_hanja": "(學院)",
+  "r_des": "『교육』 일정한 목적ㆍ교과 과정ㆍ설비ㆍ제도 및 법규에 의하여 계속적으로 학생에게 교육을 실시하는 기관.=학교.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db5"
+  },
+  "r_seq": "3",
+  "r_word": "학원",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=362857&searchKeywordTo=3",
+  "r_hanja": "(學園)",
+  "r_des": "『교육』 학교 및 기타 교육 기관을 통틀어 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db6"
+  },
+  "r_seq": "4",
+  "r_word": "학원",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=362858&searchKeywordTo=3",
+  "r_hanja": "(學園)",
+  "r_des": "『문학』 1919년에 발간된 최초의 학생 잡지. 창가, 소설 따위가 발표되어 소년ㆍ소녀들에게 처음으로 문학적인 분위기에 접하는 계기를 만들어 주었다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db7"
+  },
+  "r_seq": "1",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=458481&searchKeywordTo=3",
+  "r_hanja": "(力士)",
+  "r_des": "뛰어나게 힘이 센 사람.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db8"
+  },
+  "r_seq": "2",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230121&searchKeywordTo=3",
+  "r_hanja": "(役事)",
+  "r_des": "『건설』 토목이나 건축 따위의 공사.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3db9"
+  },
+  "r_seq": "3",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=458484&searchKeywordTo=3",
+  "r_hanja": "(歷史)",
+  "r_des": "인류 사회의 변천과 흥망의 과정. 또는 그 기록.≒사, 춘추.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dba"
+  },
+  "r_seq": "4",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230139&searchKeywordTo=3",
+  "r_hanja": "(歷事/歷仕)",
+  "r_des": "여러 대의 임금을 내리 섬김.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dbb"
+  },
+  "r_seq": "5",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230141&searchKeywordTo=3",
+  "r_hanja": "(歷辭)",
+  "r_des": "『역사』 조선 시대에, 새로 임명된 벼슬아치가 감독 관아를 돌아다니며 인사하던 일. 그 벼슬에 임명된 지 10일 이내에, 의정부ㆍ전조(銓曹) 등에 인사를 다녔다.=참알.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dbc"
+  },
+  "r_seq": "6",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230143&searchKeywordTo=3",
+  "r_hanja": "(繹史)",
+  "r_des": "『책명』 중국 청나라 때 마숙(馬驌)이 지은 역사책. 태고로부터 진(秦)나라 말기까지의 고서를 섭렵하여 뽑아낸 사료를 유형별로 모아 논단(論斷)을 붙인 것으로, 청나라 때의 경사(經史) 고정학(考訂學)에 많은 영향을 끼쳤다. 160권.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dbd"
+  },
+  "r_seq": "7",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=458483&searchKeywordTo=3",
+  "r_hanja": "(譯史)",
+  "r_des": "『역사』 고려 시대에, 중서문하성에 속한 구실아치.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dbe"
+  },
+  "r_seq": "8",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230707&searchKeywordTo=3",
+  "r_hanja": "(譯使)",
+  "r_des": "통역을 맡은 사신.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dbf"
+  },
+  "r_seq": "9",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230708&searchKeywordTo=3",
+  "r_hanja": "(譯詞)",
+  "r_des": "외국 노래의 가사를 번역하는 일. 또는 그 가사.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc0"
+  },
+  "r_seq": "10",
+  "r_word": "역사",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=230709&searchKeywordTo=3",
+  "r_hanja": "(轢死)",
+  "r_des": "차에 치여 죽음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc1"
+  },
+  "r_seq": "1",
+  "r_word": "수학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=198681&searchKeywordTo=3",
+  "r_hanja": "(水學)",
+  "r_des": "물의 현상에 관하여 연구하는 학문.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc2"
+  },
+  "r_seq": "2",
+  "r_word": "수학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=198682&searchKeywordTo=3",
+  "r_hanja": "(受學)",
+  "r_des": "학문을 배우거나 수업을 받음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc3"
+  },
+  "r_seq": "3",
+  "r_word": "수학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=198683&searchKeywordTo=3",
+  "r_hanja": "(修學)",
+  "r_des": "학문을 닦음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc4"
+  },
+  "r_seq": "4",
+  "r_word": "수학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=198685&searchKeywordTo=3",
+  "r_hanja": "(粹學)",
+  "r_des": "순수한 학문.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc5"
+  },
+  "r_seq": "5",
+  "r_word": "수학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=452991&searchKeywordTo=3",
+  "r_hanja": "(數學)",
+  "r_des": "『수학』 수량 및 공간의 성질에 관하여 연구하는 학문. 대수학, 기하학, 해석학 및 이를 응용하는 학문을 통틀어 이르는 말이다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc6"
+  },
+  "r_seq": "6",
+  "r_word": "수학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=198961&searchKeywordTo=3",
+  "r_hanja": "(瘦鶴)",
+  "r_des": "여윈 학.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc7"
+  },
+  "r_seq": "1",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=190897&searchKeywordTo=3",
+  "r_hanja": "(小舌)",
+  "r_des": "하찮거나 쓸모없는 변설(辯舌).",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc8"
+  },
+  "r_seq": "2",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=443956&searchKeywordTo=3",
+  "r_hanja": "(小雪)",
+  "r_des": "이십사절기의 하나. 입동과 대설 사이에 들며, 이때 태양의 황경(黃經)은 240도가 된다. 11월 22일이나 23일경이다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dc9"
+  },
+  "r_seq": "3",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=184185&searchKeywordTo=3",
+  "r_hanja": "(小說)",
+  "r_des": "『문학』 사실 또는 작가의 상상력에 바탕을 두고 허구적으로 이야기를 꾸며 나간 산문체의 문학 양식. 일정한 구조 속에서 배경과 등장인물의 행동, 사상, 심리 따위를 통하여 인간의 모습이나 사회상을 드러낸다. 분량에 따라 장편ㆍ중편ㆍ단편으로, 내용에 따라 과학 소설ㆍ역사 소설ㆍ추리 소설 따위로 구분할 수 있으며, 옛날의 설화나 서사시 따위의 전통을 이어받아 근대에 와서 발달한 문학 양식이다.≒이야기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dca"
+  },
+  "r_seq": "4",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=443957&searchKeywordTo=3",
+  "r_hanja": "(所說)",
+  "r_des": "설명하는 바.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dcb"
+  },
+  "r_seq": "5",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=184186&searchKeywordTo=3",
+  "r_hanja": "(昭雪)",
+  "r_des": "원통한 죄나 억울한 누명 따위를 밝혀 씻음.≒소석.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dcc"
+  },
+  "r_seq": "6",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=443958&searchKeywordTo=3",
+  "r_hanja": "(素雪)",
+  "r_des": "하얀 눈.=백설.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dcd"
+  },
+  "r_seq": "7",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=190900&searchKeywordTo=3",
+  "r_hanja": "(掃雪)",
+  "r_des": "쌓인 눈을 치움. 또는 그런 일.=제설.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dce"
+  },
+  "r_seq": "8",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=443959&searchKeywordTo=3",
+  "r_hanja": "(疏泄)",
+  "r_des": "『한의』 뭉쳐 있는 기운을 풀어서 소통시키는 기능.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dcf"
+  },
+  "r_seq": "9",
+  "r_word": "소설",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=190902&searchKeywordTo=3",
+  "r_hanja": "(騷說)",
+  "r_des": "시끄럽게 떠도는 소문.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd0"
+  },
+  "r_seq": "1",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=403593&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "사람이나 동물 또는 자동차 따위가 지나갈 수 있게 땅 위에 낸 일정한 너비의 공간.≒도도.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd1"
+  },
+  "r_seq": "2",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=403587&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "물건에 손질을 잘하여 생기는 윤기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd2"
+  },
+  "r_seq": "3",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52803&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "물건 품질의 등급.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd3"
+  },
+  "r_seq": "4",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52804&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘질’의 변한말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd4"
+  },
+  "r_seq": "5",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52805&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "저고리나 두루마기 같은 웃옷의 섶과 무 사이에 있는 넓고 긴 폭.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd5"
+  },
+  "r_seq": "6",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52647&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "길이의 단위. 한 길은 여덟 자 또는 열 자로 약 2.4미터 또는 3미터에 해당한다.",
+  "r_pos": "「의존 명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd6"
+  },
+  "r_seq": "7",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52690&searchKeywordTo=3",
+  "r_hanja": "(吉)",
+  "r_des": "우리나라 성(姓)의 하나. 본관은 해평(海平), 선산(善山) 등이 현존한다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd7"
+  },
+  "r_seq": "8",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52691&searchKeywordTo=3",
+  "r_hanja": "(吉)",
+  "r_des": "‘길하다’의 어근.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd8"
+  },
+  "r_seq": "9",
+  "r_word": "길",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=52693&searchKeywordTo=3",
+  "r_hanja": "(Gill, Eric)",
+  "r_des": "『인명』 영국의 조각가ㆍ사상가(1882~1940). 종교성이 담긴 작품을 많이 남겼다. 작품에 웨스트민스터 대성당의 부조(浮彫)와 <길 산 세리프(Gill Sans Serif)> 따위가 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dd9"
+  },
+  "r_seq": "",
+  "r_word": "미르",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=129549&searchKeywordTo=3",
+  "r_hanja": "(mir)",
+  "r_des": "『역사』 제정 러시아의 농촌 공동체 또는 자치 조직. 각 농가의 호주들이 그 책임자를 뽑아 조세의 공동 부담, 농가에 대한 토지의 할당 따위의 책임을 맡겼다. 1917년의 러시아 혁명 후 해체되어 집단 농장인 콜호스에 흡수되었다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dda"
+  },
+  "r_seq": "",
+  "r_word": "한-울",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=366761&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『종교 일반』 천도교에서, 우주의 본체를 이르는 말. ‘한’은 ‘큰’, ‘울’은 ‘우리’의 준말로, ‘큰 나’ 또는 ‘온 세상’이라는 뜻을 갖는다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ddb"
+  },
+  "r_seq": "",
+  "r_word": "바보",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=426195&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "지능이 부족하여 정상적으로 판단하지 못하는 사람을 낮잡아 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ddc"
+  },
+  "r_seq": "1",
+  "r_word": "천재",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=486314&searchKeywordTo=3",
+  "r_hanja": "(千載)",
+  "r_des": "천 년이나 되는 세월이라는 뜻으로, 오랜 세월을 이르는 말.=천세.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ddd"
+  },
+  "r_seq": "2",
+  "r_word": "천재",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=486315&searchKeywordTo=3",
+  "r_hanja": "(天才)",
+  "r_des": "선천적으로 타고난, 남보다 훨씬 뛰어난 재주. 또는 그런 재능을 가진 사람.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dde"
+  },
+  "r_seq": "3",
+  "r_word": "천재",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=326312&searchKeywordTo=3",
+  "r_hanja": "(天災)",
+  "r_des": "풍수해, 지진, 가뭄 따위와 같이 자연의 변화로 일어나는 재앙.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ddf"
+  },
+  "r_seq": "4",
+  "r_word": "천재",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=326313&searchKeywordTo=3",
+  "r_hanja": "(天財)",
+  "r_des": "천연의 재물. 또는 천하(天下)의 재물.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de0"
+  },
+  "r_seq": "5",
+  "r_word": "천재",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=326314&searchKeywordTo=3",
+  "r_hanja": "(天裁)",
+  "r_des": "천자(天子)가 재결을 함. 또는 그 재결.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de1"
+  },
+  "r_seq": "6",
+  "r_word": "천재",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=490919&searchKeywordTo=3",
+  "r_hanja": "(淺才)",
+  "r_des": "얕은 재주.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de2"
+  },
+  "r_seq": "",
+  "r_word": "말미잘",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=111890&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『동물』 해변말미잘목과 꽃말미잘목의 자포동물을 통틀어 이르는 말. 몸은 원통 모양이며 구반(口盤), 체벽, 족반(足盤)의 세 부분으로 이루어져 있다. 구반 가운데 입이 있고 주위에 촉수가 나 있다. 대부분이 암수딴몸으로 다른 동물이나 바위에 붙어 산다.≒돌모란, 토규.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de3"
+  },
+  "r_seq": "",
+  "r_word": "생선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=446571&searchKeywordTo=3",
+  "r_hanja": "(生鮮)",
+  "r_des": "먹기 위해 잡은 신선한 물고기.≒생어, 선어, 어선.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de4"
+  },
+  "r_seq": "",
+  "r_word": "동물",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=89678&searchKeywordTo=3",
+  "r_hanja": "(動物)",
+  "r_des": "『동물』 생물계의 두 갈래 가운데 하나. 현재 100만~120만 종이 알려져 있고 그 가운데 약 80%는 곤충이 차지한다. 원생동물부터 척추동물까지 23개 문(門)으로 분류된다. 주로 유기물을 영양분으로 섭취하며, 운동, 감각, 신경 따위의 기능이 발달하였다. 소화, 배설, 호흡, 순환, 생식 따위의 기관이 분화되어 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de5"
+  },
+  "r_seq": "",
+  "r_word": "포유-류",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=356715&searchKeywordTo=3",
+  "r_hanja": "(哺乳類)",
+  "r_des": "포유강의 동물을 일상적으로 통틀어 이르는 말.≒포유동물.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de6"
+  },
+  "r_seq": "",
+  "r_word": "파충-류",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=497395&searchKeywordTo=3",
+  "r_hanja": "(爬蟲類)",
+  "r_des": "파충강의 동물을 일상적으로 통틀어 이르는 말.≒파충.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de7"
+  },
+  "r_seq": "1",
+  "r_word": "친구",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=331789&searchKeywordTo=3",
+  "r_hanja": "(親口)",
+  "r_des": "『가톨릭』 숭경의 대상에 대하여 존경과 복종을 나타내려고 입을 맞춤. 또는 그런 행동.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de8"
+  },
+  "r_seq": "2",
+  "r_word": "친구",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=493477&searchKeywordTo=3",
+  "r_hanja": "(親舊)",
+  "r_des": "가깝게 오래 사귄 사람.≒친고.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3de9"
+  },
+  "r_seq": "",
+  "r_word": "선생-님",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=442698&searchKeywordTo=3",
+  "r_hanja": "(先生님)",
+  "r_des": "‘선생’을 높여 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dea"
+  },
+  "r_seq": "1",
+  "r_word": "전-우",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=474515&searchKeywordTo=3",
+  "r_hanja": "(田愚)",
+  "r_des": "『인명』 구한말의 학자(1841~1922). 초명은 경륜(慶倫)ㆍ경길(慶佶). 자는 자명(子明). 호는 구산(臼山)ㆍ추담(秋潭)ㆍ간재(艮齋). 임헌회의 문인으로, 만년에 전라도 계화도(界火島)에서 후진을 많이 길러 내어 우리나라 유문(儒門)의 최후의 대종(大宗)이라 이른다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3deb"
+  },
+  "r_seq": "2",
+  "r_word": "전우",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=286032&searchKeywordTo=3",
+  "r_hanja": "(殿宇)",
+  "r_des": "신불(神佛)을 모셔 놓은 집.=전당.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dec"
+  },
+  "r_seq": "3",
+  "r_word": "전우",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=286033&searchKeywordTo=3",
+  "r_hanja": "(戰友)",
+  "r_des": "전장(戰場)에서 승리를 위해 생활과 전투를 함께하는 동료.≒군우.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ded"
+  },
+  "r_seq": "4",
+  "r_word": "전우",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=286034&searchKeywordTo=3",
+  "r_hanja": "(轉羽)",
+  "r_des": "『공예』 조선 시대에, 무관의 구군복에 갖추어 쓰던 전립(戰笠)을 장식하던 새의 깃. 공작의 꽁지깃과 남빛의 새털을 한데 묶어 펼쳐서 손바닥같이 둥글넓적하고 아주 두툼하게 만들었으며, 방색(方色)을 따라 남색ㆍ누런색ㆍ붉은색ㆍ흰색ㆍ검은색의 새털을 쓰기도 했다.=공작우.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dee"
+  },
+  "r_seq": "1",
+  "r_word": "나라",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=402903&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "일정한 영토와 거기에 사는 사람들로 구성되고, 주권(主權)에 의한 하나의 통치 조직을 가지고 있는 사회 집단. 국민ㆍ영토ㆍ주권의 삼요소를 필요로 한다.=국가.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3def"
+  },
+  "r_seq": "2",
+  "r_word": "나라",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=58440&searchKeywordTo=3",
+  "r_hanja": "(Nara[奈良])",
+  "r_des": "『지명』 일본 나라현 북부에 있는 관광 도시. 나라 시대의 수도로 고대 사찰을 비롯하여 수많은 불교 건축물과 유물이 남아 있다. 필묵과 나라즈케(奈良漬)라 불리는 부식물 따위의 전통 특산품이 유명하다. 현청 소재지이다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df0"
+  },
+  "r_seq": "",
+  "r_word": "은하-수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=257123&searchKeywordTo=3",
+  "r_hanja": "(銀河水)",
+  "r_des": "‘은하’를 강(江)에 비유하여 일상적으로 이르는 말.≒고하, 성하, 성한, 우한, 운한, 은한, 은황, 천하, 천한, 천황, 하한.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df1"
+  },
+  "r_seq": "",
+  "r_word": "고속^도로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=391739&searchKeywordTo=3",
+  "r_hanja": "(高速道路)",
+  "r_des": "『교통』 차의 빠른 통행을 위하여 만든 차 전용의 도로.≒고속도 도로.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df2"
+  },
+  "r_seq": "1",
+  "r_word": "아기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=455020&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "어린 젖먹이 아이.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df3"
+  },
+  "r_seq": "2",
+  "r_word": "아기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=210883&searchKeywordTo=3",
+  "r_hanja": "(牙旗)",
+  "r_des": "『역사』 임금이나 대장이 거처하는 곳에 세우던 기. 깃대 끝을 상아로 장식하였다.≒대아, 아당.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df4"
+  },
+  "r_seq": "3",
+  "r_word": "아기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=210884&searchKeywordTo=3",
+  "r_hanja": "(牙器)",
+  "r_des": "상아로 만든 그릇.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df5"
+  },
+  "r_seq": "4",
+  "r_word": "아기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=210885&searchKeywordTo=3",
+  "r_hanja": "(雅氣)",
+  "r_des": "맑은 기운.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df6"
+  },
+  "r_seq": "1",
+  "r_word": "어른",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=458650&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "다 자란 사람. 또는 다 자라서 자기 일에 책임을 질 수 있는 사람.≒장자.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df7"
+  },
+  "r_seq": "2",
+  "r_word": "어른",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=227103&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘어른거리다’의 어근.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df8"
+  },
+  "r_seq": "1",
+  "r_word": "어린-이",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=461103&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘어린아이’를 대접하거나 격식을 갖추어 이르는 말. 대개 4, 5세부터 초등학생까지의 아이를 이른다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3df9"
+  },
+  "r_seq": "2",
+  "r_word": "어린-이",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=231175&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『문학』 1923년부터 1934년까지 소파 방정환의 주재로 간행된 아동 잡지. 민족혼을 일깨우고, 아동 문학가를 발굴하고 육성하는 데 기여하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dfa"
+  },
+  "r_seq": "",
+  "r_word": "박스",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=130151&searchKeywordTo=3",
+  "r_hanja": "(box)",
+  "r_des": "물건을 넣어 두기 위하여 나무, 대나무, 두꺼운 종이 같은 것으로 만든 네모난 그릇.=상자.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dfb"
+  },
+  "r_seq": "",
+  "r_word": "게임",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=392339&searchKeywordTo=3",
+  "r_hanja": "(game)",
+  "r_des": "규칙을 정해 놓고 승부를 겨루는 놀이.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dfc"
+  },
+  "r_seq": "1",
+  "r_word": "놀-이",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=408866&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "여러 사람이 모여서 즐겁게 노는 일. 또는 그런 활동.≒놀음, 놀음놀이.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dfd"
+  },
+  "r_seq": "2",
+  "r_word": "놀이",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=67915&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "봄날에 벌들이 떼를 지어 제집 앞에 나와 날아다니는 일.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dfe"
+  },
+  "r_seq": "1",
+  "r_word": "함수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=371643&searchKeywordTo=3",
+  "r_hanja": "(含水)",
+  "r_des": "수분을 함유하고 있음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3dff"
+  },
+  "r_seq": "2",
+  "r_word": "함수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=371644&searchKeywordTo=3",
+  "r_hanja": "(含羞)",
+  "r_des": "부끄러워하는 빛을 띰.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e00"
+  },
+  "r_seq": "3",
+  "r_word": "함수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=371646&searchKeywordTo=3",
+  "r_hanja": "(含漱)",
+  "r_des": "양치질을 함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e01"
+  },
+  "r_seq": "4",
+  "r_word": "함수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=503277&searchKeywordTo=3",
+  "r_hanja": "(函數)",
+  "r_des": "『수학』 두 개의 변수 x, y 사이에서, x가 일정한 범위 내에서 값이 변하는 데 따라서 y의 값이 종속적으로 정해질 때, x에 대하여 y를 이르는 말. y가 x의 함수라는 것은 y=f(x)로 표시한다.≒따름수.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e02"
+  },
+  "r_seq": "5",
+  "r_word": "함수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=371648&searchKeywordTo=3",
+  "r_hanja": "(艦首)",
+  "r_des": "군함의 앞머리.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e03"
+  },
+  "r_seq": "6",
+  "r_word": "함수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=371649&searchKeywordTo=3",
+  "r_hanja": "(鹹水)",
+  "r_des": "염분이 들어 있는 물.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e04"
+  },
+  "r_seq": "",
+  "r_word": "컴퓨터",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=494409&searchKeywordTo=3",
+  "r_hanja": "(computer)",
+  "r_des": "『정보·통신』 전자 회로를 이용한 고속의 자동 계산기. 숫자 계산, 자동 제어, 데이터 처리, 사무 관리, 언어나 영상 정보 처리 따위에 광범위하게 이용된다.≒일렉트로닉컴퓨터, 전자계산기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e05"
+  },
+  "r_seq": "1",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=177699&searchKeywordTo=3",
+  "r_hanja": "(上자)",
+  "r_des": "『불교』 → 상좌.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e06"
+  },
+  "r_seq": "2",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178024&searchKeywordTo=3",
+  "r_hanja": "(上梓)",
+  "r_des": "‘상재’의 원말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e07"
+  },
+  "r_seq": "3",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178026&searchKeywordTo=3",
+  "r_hanja": "(尙子)",
+  "r_des": "둘 이상의 아들 가운데 맏이가 되는 아들.=맏아들.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e08"
+  },
+  "r_seq": "4",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178027&searchKeywordTo=3",
+  "r_hanja": "(牀笫)",
+  "r_des": "평상과 돗자리를 아울러 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e09"
+  },
+  "r_seq": "5",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178028&searchKeywordTo=3",
+  "r_hanja": "(相者)",
+  "r_des": "사람의 얼굴을 보고 그의 운명, 성격, 수명 따위를 판단하는 일을 직업으로 하는 사람.=관상가.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e0a"
+  },
+  "r_seq": "6",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178029&searchKeywordTo=3",
+  "r_hanja": "(桑柘)",
+  "r_des": "뽕나무와 산뽕나무를 통틀어 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e0b"
+  },
+  "r_seq": "7",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=446035&searchKeywordTo=3",
+  "r_hanja": "(商子)",
+  "r_des": "『책명』 중국 진(秦)나라의 정치가 상앙이 편찬한 법가(法家)의 책. 농본주의에 의한 부국법, 신상필벌에 의한 강병책, 법과 형벌로써 행하는 내치(內治) 따위를 기술하였다. 원래 29편이었는데 오늘날 전하는 것은 26편 5권뿐이다.≒상군서.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e0c"
+  },
+  "r_seq": "8",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=446036&searchKeywordTo=3",
+  "r_hanja": "(箱子)",
+  "r_des": "물건을 넣어 두기 위하여 나무, 대나무, 두꺼운 종이 같은 것으로 만든 네모난 그릇.≒박스.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e0d"
+  },
+  "r_seq": "9",
+  "r_word": "상자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178032&searchKeywordTo=3",
+  "r_hanja": "(橡子)",
+  "r_des": "상수리나 도토리.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e0e"
+  },
+  "r_seq": "",
+  "r_word": "모니터",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=425561&searchKeywordTo=3",
+  "r_hanja": "(monitor)",
+  "r_des": "방송국이나 신문사의 의뢰를 받아 프로그램이나 기사에 대한 의견을 제출하는 사람.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e0f"
+  },
+  "r_seq": "",
+  "r_word": "충전-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=330606&searchKeywordTo=3",
+  "r_hanja": "(充電器)",
+  "r_des": "『물리』 축전지의 충전에 쓰는 장치.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e10"
+  },
+  "r_seq": "1",
+  "r_word": "배터리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=141549&searchKeywordTo=3",
+  "r_hanja": "(battery)",
+  "r_des": "『체육』 야구에서, 짝을 이루어 경기를 하는 투수와 포수.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e11"
+  },
+  "r_seq": "2",
+  "r_word": "배터리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=141550&searchKeywordTo=3",
+  "r_hanja": "(battery)",
+  "r_des": "『음악』 군악대에서 군호나 호령으로 규정된, 북을 연타하는 것과 같은 리듬.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e12"
+  },
+  "r_seq": "",
+  "r_word": "해삼",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=363155&searchKeywordTo=3",
+  "r_hanja": "(海蔘)",
+  "r_des": "해삼강의 동물을 일상적으로 통틀어 이르는 말. 몸은 부드럽고 오이 모양으로 온몸에 오톨도톨한 돌기가 많이 나 있으며, 검푸른 갈색 또는 검붉은 갈색이다. 살은 날로 먹고 말린 것은 요리에 쓰며 내장으로는 젓을 담근다. 한국, 일본 등지의 바다에 분포한다.=해삼류.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e13"
+  },
+  "r_seq": "",
+  "r_word": "멍게",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=421300&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『동물』 멍겟과의 원삭동물. 몸길이는 5~15cm이고 몸빛은 대체로 선홍색이다. 외피는 가죽 모양으로 질기고 얇으며, 표면에 젖꼭지 같은 돌기가 있다. 몸의 뒤쪽 끝에 있는 뿌리 모양의 돌기로 다른 물질에 부착해 생활한다. 한국, 일본 등지에 분포한다.≒우렁쉥이.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e14"
+  },
+  "r_seq": "",
+  "r_word": "해녀",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=365243&searchKeywordTo=3",
+  "r_hanja": "(海女)",
+  "r_des": "바닷속에 들어가 해삼, 전복, 미역 따위를 따는 것을 직업으로 하는 여자.≒잠녀, 잠수.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e15"
+  },
+  "r_seq": "1",
+  "r_word": "제주-도",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=296689&searchKeywordTo=3",
+  "r_hanja": "(濟州島)",
+  "r_des": "『지명』 우리나라 서남해 쪽에 있는 가장 큰 화산섬. 상고 시대에는 양(良), 고(高), 부(夫) 삼성신(三姓神)이 세운 탐라국이 있었으며 1946년에 전라남도에서 분리되어 도(道)로 승격하였고 2006년에 제주특별자치도 설치 및 국제 자유 도시 조성을 위한 특별법에 의하여 도에서 제주특별자치도로 승격하였다. 목축업, 농업, 임업, 수산업, 관광 사업이 발달하였으며 해녀와 말이 유명하다. 명승지로 백록담, 삼성혈, 용두암, 만장굴, 천지연 폭포 따위가 있다. 동서 73km, 남북 31km의 타원형으로 이루어져 있다. 면적은 1832.946㎢.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e16"
+  },
+  "r_seq": "2",
+  "r_word": "제주-도",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=301707&searchKeywordTo=3",
+  "r_hanja": "(濟州道)",
+  "r_des": "『지명』 우리나라 가장 남쪽에 있던, 섬으로 이루어진 도. 2006년에 ‘제주특별자치도’로 승격하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e17"
+  },
+  "r_seq": "1",
+  "r_word": "한국",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361200&searchKeywordTo=3",
+  "r_hanja": "(汗國)",
+  "r_des": "『역사』 중국 새외(塞外) 민족의 우두머리인 가한(可汗)이나 한(汗)이 다스리던 나라.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e18"
+  },
+  "r_seq": "2",
+  "r_word": "한국",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361201&searchKeywordTo=3",
+  "r_hanja": "(限局)",
+  "r_des": "범위를 일정한 부분에 한정함.=국한.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e19"
+  },
+  "r_seq": "3",
+  "r_word": "한국",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361202&searchKeywordTo=3",
+  "r_hanja": "(寒國)",
+  "r_des": "몹시 추운 나라.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e1a"
+  },
+  "r_seq": "4",
+  "r_word": "한국",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=506641&searchKeywordTo=3",
+  "r_hanja": "(寒菊)",
+  "r_des": "『식물』 국화과의 재배 식물의 하나. 잎은 작고 깃 모양으로 갈라진다. 11월에 노란색 꽃이 피고 총포가 길다. 한국, 일본, 중국 등지에 분포한다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e1b"
+  },
+  "r_seq": "5",
+  "r_word": "한국",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361203&searchKeywordTo=3",
+  "r_hanja": "(韓國)",
+  "r_des": "『역사』 ‘대한 제국’을 줄여 이르는 말.≒한.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e1c"
+  },
+  "r_seq": "",
+  "r_word": "대한-민국",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=412166&searchKeywordTo=3",
+  "r_hanja": "(大韓民國)",
+  "r_des": "『지명』 아시아 대륙 동쪽에 있는 한반도와 그 부속 도서(島嶼)로 이루어진 공화국. 아르오케이(ROK:Republic of Korea) 또는 코리아(Korea)라고도 불린다. 기원전 2333년에 성립된 고조선에서부터 고구려ㆍ백제ㆍ신라의 삼국 시대를 거쳐 통일 신라ㆍ고려ㆍ조선으로 이어져 오다가 1910년에 일제의 침략으로 강제 합병 되었으나, 1945년에 제이 차 세계 대전이 끝나면서 독립하였다. 1948년에 남쪽 지역만의 총선으로 민주 공화국이 수립되었다. 1950년에 북한이 6ㆍ25 전쟁을 일으킴으로써 휴전선을 사이에 두고 국토 분단이 고착화되었다. 주민의 대부분은 황색 인종인 한민족(韓民族)이며, 언어는 알타이어계에 속하는 한국어이고 문자는 한글을 쓴다. 수도는 서울, 면적은 22만 1336㎢, 남한은 9만 9313㎢.≒대한, 한국.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e1d"
+  },
+  "r_seq": "1",
+  "r_word": "국내",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=38477&searchKeywordTo=3",
+  "r_hanja": "(局內)",
+  "r_des": "묘지나 절 따위의 구역 안.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e1e"
+  },
+  "r_seq": "2",
+  "r_word": "국내",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=38642&searchKeywordTo=3",
+  "r_hanja": "(國內)",
+  "r_des": "나라의 안.≒국중.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e1f"
+  },
+  "r_seq": "1",
+  "r_word": "동작",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=90108&searchKeywordTo=3",
+  "r_hanja": "(同作)",
+  "r_des": "같은 사람의 작품.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e20"
+  },
+  "r_seq": "2",
+  "r_word": "동작",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=414003&searchKeywordTo=3",
+  "r_hanja": "(東作)",
+  "r_des": "봄철에 농사를 시작함. 또는 그 농사.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e21"
+  },
+  "r_seq": "3",
+  "r_word": "동작",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=413784&searchKeywordTo=3",
+  "r_hanja": "(動作)",
+  "r_des": "몸이나 손발 따위를 움직임. 또는 그런 모양.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e22"
+  },
+  "r_seq": "1",
+  "r_word": "실행",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=210546&searchKeywordTo=3",
+  "r_hanja": "(失行)",
+  "r_des": "도의에 어그러진 좋지 못한 행동을 함. 또는 그런 행실.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e23"
+  },
+  "r_seq": "2",
+  "r_word": "실행",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=452306&searchKeywordTo=3",
+  "r_hanja": "(實行)",
+  "r_des": "실제로 행함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e24"
+  },
+  "r_seq": "1",
+  "r_word": "실시",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=208196&searchKeywordTo=3",
+  "r_hanja": "(失恃)",
+  "r_des": "어머니를 여읨.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e25"
+  },
+  "r_seq": "2",
+  "r_word": "실시",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=208197&searchKeywordTo=3",
+  "r_hanja": "(失時)",
+  "r_des": "때를 놓침.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e26"
+  },
+  "r_seq": "3",
+  "r_word": "실시",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=455704&searchKeywordTo=3",
+  "r_hanja": "(實施)",
+  "r_des": "실제로 시행함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e27"
+  },
+  "r_seq": "",
+  "r_word": "밖",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=130818&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "어떤 선이나 금을 넘어선 쪽.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e28"
+  },
+  "r_seq": "",
+  "r_word": "물-병",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=424968&searchKeywordTo=3",
+  "r_hanja": "(물甁)",
+  "r_des": "물을 넣는 병.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e29"
+  },
+  "r_seq": "",
+  "r_word": "담배",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=413713&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『식물』 가짓과의 담배 따위를 통틀어 이르는 말. 모두 60종 30여 변종(變種)이 알려져 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e2a"
+  },
+  "r_seq": "1",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=196100&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "알코올 성분이 들어 있어 마시면 취하는 음료. 적당히 마시면 물질대사를 높이는 효과가 있다. 맥주, 청주, 막걸리 따위의 발효주와 소주, 고량주, 위스키 따위의 증류주가 있으며, 과실이나 약제를 알코올과 혼합하여 만드는 혼성주도 있다.≒감례.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e2b"
+  },
+  "r_seq": "2",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=196120&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "가마, 기(旗), 끈, 띠, 책상보, 옷 따위에 장식으로 다는 여러 가닥의 실.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e2c"
+  },
+  "r_seq": "3",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=196121&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "책, 종이, 피륙 따위의 포갠 부피.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e2d"
+  },
+  "r_seq": "4",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=196122&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『농업』 쟁기의 몸 아래로 비스듬히 뻗어 나간 나무. 끝에 보습을 맞추는 넓적하고 삐죽한 바닥이 있고, 그 뒤에 네모진 한마루 구멍이 있다.=쟁깃술.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e2e"
+  },
+  "r_seq": "5",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=196123&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『음악』 거문고나 향비파를 타는 데 쓰는, 단단한 대나무로 만든 채.=술대.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e2f"
+  },
+  "r_seq": "6",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=452765&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "밥 따위의 음식물을 숟가락으로 떠 그 분량을 세는 단위.",
+  "r_pos": "「의존 명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e30"
+  },
+  "r_seq": "7",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=196125&searchKeywordTo=3",
+  "r_hanja": "(戌)",
+  "r_des": "『민속』 십이지(十二支)의 열한째. 개를 상징한다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e31"
+  },
+  "r_seq": "8",
+  "r_word": "술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=452766&searchKeywordTo=3",
+  "r_hanja": "(術)",
+  "r_des": "『민속』 음양(陰陽), 복서(卜筮) 따위로 길흉을 점치는 방법.=술수.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e32"
+  },
+  "r_seq": "9",
+  "r_word": "-술",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=449695&searchKeywordTo=3",
+  "r_hanja": "(術)",
+  "r_des": "‘기술’ 또는 ‘재주’의 뜻을 더하는 접미사.",
+  "r_pos": "「접사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e33"
+  },
+  "r_seq": "1",
+  "r_word": "소주",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=195270&searchKeywordTo=3",
+  "r_hanja": "(小舟)",
+  "r_des": "작은 배.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e34"
+  },
+  "r_seq": "2",
+  "r_word": "소주",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=195271&searchKeywordTo=3",
+  "r_hanja": "(小註)",
+  "r_des": "큰 주석 아래에 더 자세히 단 주석.=잔주.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e35"
+  },
+  "r_seq": "3",
+  "r_word": "소주",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=448267&searchKeywordTo=3",
+  "r_hanja": "(疏註)",
+  "r_des": "본문에 대한 주해. 또는 이전 사람의 주해에 대한 주해. 소(疏)는 주(註)를 해석ㆍ부연한 것이고, 주(註)는 경(經)을 해석한 것이다.≒주소.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e36"
+  },
+  "r_seq": "4",
+  "r_word": "소주",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=195847&searchKeywordTo=3",
+  "r_hanja": "(燒酒)",
+  "r_des": "곡주나 고구마주 따위를 끓여서 얻는 증류식 술. 무색투명하고 알코올 성분이 많다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e37"
+  },
+  "r_seq": "1",
+  "r_word": "정규",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=300077&searchKeywordTo=3",
+  "r_hanja": "(正規)",
+  "r_des": "정식으로 된 규정이나 규범.≒정궤.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e38"
+  },
+  "r_seq": "2",
+  "r_word": "정규",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=300078&searchKeywordTo=3",
+  "r_hanja": "(定規)",
+  "r_des": "일정한 규약이나 규칙.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e39"
+  },
+  "r_seq": "",
+  "r_word": "표현",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=357034&searchKeywordTo=3",
+  "r_hanja": "(表現)",
+  "r_des": "생각이나 느낌 따위를 언어나 몸짓 따위의 형상으로 드러내어 나타냄.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e3a"
+  },
+  "r_seq": "1",
+  "r_word": "가로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=218&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "왼쪽에서 오른쪽으로 나 있는 방향. 또는 그 길이.≒횡.",
+  "r_pos": "[Ⅰ]「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e3b"
+  },
+  "r_seq": "2",
+  "r_word": "가로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=386974&searchKeywordTo=3",
+  "r_hanja": "(加勞)",
+  "r_des": "관록(官祿) 따위를 올려 주어 위로함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e3c"
+  },
+  "r_seq": "3",
+  "r_word": "가로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=916&searchKeywordTo=3",
+  "r_hanja": "(家老)",
+  "r_des": "일족(一族)의 장로(長老).",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e3d"
+  },
+  "r_seq": "4",
+  "r_word": "가로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=1054&searchKeywordTo=3",
+  "r_hanja": "(街路)",
+  "r_des": "시가지의 넓은 도로. 일반적으로 교통안전을 위하여 차도(車道)와 보도(步道)로 구분되어 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e3e"
+  },
+  "r_seq": "5",
+  "r_word": "가로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=517952&searchKeywordTo=3",
+  "r_hanja": "(葭蘆)",
+  "r_des": "『식물』 볏과의 여러해살이풀. 높이는 1~3미터이며, 잎은 길고 끝이 뾰족하다. 줄기는 단단하고 속이 비어 있으며 발, 삿자리 따위의 재료로 쓴다. 습지나 물가에 자라는데 우리나라를 비롯하여 전 세계에 널리 분포한다.=갈대.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e3f"
+  },
+  "r_seq": "1",
+  "r_word": "세로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=446089&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "위에서 아래로 나 있는 방향. 또는 그 길이.≒종.",
+  "r_pos": "[Ⅰ]「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e40"
+  },
+  "r_seq": "2",
+  "r_word": "세로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=191411&searchKeywordTo=3",
+  "r_hanja": "(世路)",
+  "r_des": "세상을 살아가는 길.≒세도, 세상길, 행로.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e41"
+  },
+  "r_seq": "3",
+  "r_word": "세로",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=191412&searchKeywordTo=3",
+  "r_hanja": "(細路)",
+  "r_des": "좁은 길.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e42"
+  },
+  "r_seq": "",
+  "r_word": "연구-소",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=228028&searchKeywordTo=3",
+  "r_hanja": "(硏究所)",
+  "r_des": "연구를 전문으로 하는 기관.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e43"
+  },
+  "r_seq": "1",
+  "r_word": "침착",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=340550&searchKeywordTo=3",
+  "r_hanja": "(沈着)",
+  "r_des": "밑으로 가라앉아 들러붙음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e44"
+  },
+  "r_seq": "2",
+  "r_word": "침착",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=489359&searchKeywordTo=3",
+  "r_hanja": "(沈着)",
+  "r_des": "행동이 들뜨지 아니하고 차분함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e45"
+  },
+  "r_seq": "1",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=491092&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "사실이나 이치에 조금도 어긋남이 없는 것.",
+  "r_pos": "[Ⅰ]「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e46"
+  },
+  "r_seq": "2",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325059&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "만조(滿潮) 때의 물.=참물.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e47"
+  },
+  "r_seq": "3",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=487155&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "일을 하다가 일정하게 잠시 쉬는 동안. 한자를 빌려 ‘站’으로 적기도 한다.",
+  "r_pos": "[Ⅰ]「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e48"
+  },
+  "r_seq": "4",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325326&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘참하다’의 어근.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e49"
+  },
+  "r_seq": "5",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325329&searchKeywordTo=3",
+  "r_hanja": "(站)",
+  "r_des": "『역사』 중앙 관아의 공문을 지방 관아에 전달하며 외국 사신의 왕래, 벼슬아치의 여행과 부임 때 마필(馬匹)을 공급하던 곳. 주요 도로에 대개 25리마다 하나씩 두었다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e4a"
+  },
+  "r_seq": "6",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325330&searchKeywordTo=3",
+  "r_hanja": "(參)",
+  "r_des": "『불교』 선종에서, 장로 또는 주지가 대중에게 설법하는 일.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e4b"
+  },
+  "r_seq": "7",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325331&searchKeywordTo=3",
+  "r_hanja": "(斬)",
+  "r_des": "목을 벰.=참수.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e4c"
+  },
+  "r_seq": "8",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325333&searchKeywordTo=3",
+  "r_hanja": "(僭)",
+  "r_des": "‘참하다’의 어근.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e4d"
+  },
+  "r_seq": "9",
+  "r_word": "참",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325335&searchKeywordTo=3",
+  "r_hanja": "(懺)",
+  "r_des": "자기의 잘못에 대하여 깨닫고 깊이 뉘우침.=참회.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e4e"
+  },
+  "r_seq": "10",
+  "r_word": "참-",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=325337&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘진짜’ 또는 ‘진실하고 올바른’의 뜻을 더하는 접두사.",
+  "r_pos": "「접사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e4f"
+  },
+  "r_seq": "",
+  "r_word": "거짓",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=390876&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "사실과 어긋난 것. 또는 사실이 아닌 것을 사실처럼 꾸민 것.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e50"
+  },
+  "r_seq": "",
+  "r_word": "이슬",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=470005&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "공기 중의 수증기가 기온이 내려가거나 찬 물체에 부딪힐 때 엉겨서 생기는 물방울.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e51"
+  },
+  "r_seq": "1",
+  "r_word": "한강",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=363626&searchKeywordTo=3",
+  "r_hanja": "(漢江)",
+  "r_des": "『지명』 우리나라 중부를 흐르는 강. 태백산맥에서 시작하여 황해로 흘러든다. 북한강ㆍ남한강의 두 물줄기가 남양주시에서 합류하며, 이 유역은 삼국 시대부터 중요시되어 왔다. 길이는 494.44km.≒한수.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e52"
+  },
+  "r_seq": "2",
+  "r_word": "한강",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=363627&searchKeywordTo=3",
+  "r_hanja": "(漢江)",
+  "r_des": "『지명』 중국 양쯔강(揚子江)의 지류. 산시성(陝西省) 서남쪽, 친링산맥(秦嶺山脈)에서 시작하여 한중(漢中)을 지나 후베이성(湖北省) 한커우(漢口)에서 양쯔강으로 흘러든다. 길이는 1,532km.=한수이강.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e53"
+  },
+  "r_seq": "3",
+  "r_word": "한강",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=363628&searchKeywordTo=3",
+  "r_hanja": "(韓江)",
+  "r_des": "『지명』 → 한장강.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e54"
+  },
+  "r_seq": "1",
+  "r_word": "오리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=242255&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "실, 나무, 대 따위의 가늘고 긴 조각.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e55"
+  },
+  "r_seq": "2",
+  "r_word": "오리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=242256&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "낚시의 하나. 삼지창의 가운데 끝을 갈고리 모양으로 꼬부려 큰 고기를 잡는 데에 쓴다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e56"
+  },
+  "r_seq": "3",
+  "r_word": "오리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=242257&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『동물』 오릿과의 새를 통틀어 이르는 말. 발가락 사이에 물갈퀴가 있으며, 부리는 편평하다. 검둥오리, 청둥오리, 흰뺨검둥오리 따위가 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e57"
+  },
+  "r_seq": "4",
+  "r_word": "오리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=459335&searchKeywordTo=3",
+  "r_hanja": "(汚吏)",
+  "r_des": "청렴하지 못한 벼슬아치.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e58"
+  },
+  "r_seq": "5",
+  "r_word": "오리",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=242526&searchKeywordTo=3",
+  "r_hanja": "(梧里)",
+  "r_des": "『인명』 ‘이원익’의 호.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e59"
+  },
+  "r_seq": "",
+  "r_word": "계란",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=20272&searchKeywordTo=3",
+  "r_hanja": "(鷄卵)",
+  "r_des": "닭이 낳은 알. 알껍데기, 노른자, 흰자 따위로 이루어져 있다.=달걀.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e5a"
+  },
+  "r_seq": "1",
+  "r_word": "알",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=456150&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『수의』 조류, 파충류, 어류, 곤충 따위의 암컷이 낳는, 둥근 모양의 물질. 일정한 시간이 지나면 새끼나 애벌레로 부화한다.",
+  "r_pos": "[Ⅰ]「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e5b"
+  },
+  "r_seq": "2",
+  "r_word": "알-",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=217394&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘겉을 덮어 싼 것이나 딸린 것을 다 제거한’의 뜻을 더하는 접두사.",
+  "r_pos": "「접사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e5c"
+  },
+  "r_seq": "",
+  "r_word": "호출",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=505691&searchKeywordTo=3",
+  "r_hanja": "(呼出)",
+  "r_des": "전화나 전신 따위의 신호로 상대편을 부르는 일.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e5d"
+  },
+  "r_seq": "",
+  "r_word": "사용-자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=170113&searchKeywordTo=3",
+  "r_hanja": "(使用者)",
+  "r_des": "사람을 부리거나 물건을 쓰는 사람.=사용인.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e5e"
+  },
+  "r_seq": "",
+  "r_word": "명시-성",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=116538&searchKeywordTo=3",
+  "r_hanja": "(明視性)",
+  "r_des": "『미술』 두 가지 이상의 색ㆍ선ㆍ모양을 대비시켰을 때, 금방 눈에 뜨이는 성질.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e5f"
+  },
+  "r_seq": "",
+  "r_word": "출입",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=494426&searchKeywordTo=3",
+  "r_hanja": "(出入)",
+  "r_des": "어느 곳을 드나듦.≒나들이.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e60"
+  },
+  "r_seq": "",
+  "r_word": "공백",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=395131&searchKeywordTo=3",
+  "r_hanja": "(空白)",
+  "r_des": "종이나 책 따위에서 글씨나 그림이 없는 빈 곳.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e61"
+  },
+  "r_seq": "",
+  "r_word": "검색",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=17898&searchKeywordTo=3",
+  "r_hanja": "(檢索)",
+  "r_des": "범죄나 사건을 밝히기 위한 단서나 증거를 찾기 위하여 살펴 조사함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e62"
+  },
+  "r_seq": "",
+  "r_word": "고양이",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=25773&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『동물』 고양잇과의 하나. 원래 아프리카의 리비아살쾡이를 길들인 것으로, 턱과 송곳니가 특히 발달해서 육식을 주로 한다. 발톱은 자유롭게 감추거나 드러낼 수 있으며, 눈은 어두운 곳에서도 잘 볼 수 있다. 애완동물로도 육종하여 여러 품종이 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e63"
+  },
+  "r_seq": "",
+  "r_word": "강아지",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=388677&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "개의 새끼.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e64"
+  },
+  "r_seq": "",
+  "r_word": "망아지",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=111367&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "말의 새끼.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e65"
+  },
+  "r_seq": "",
+  "r_word": "송아지",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=195967&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "어린 소.≒독우, 쇠새끼.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e66"
+  },
+  "r_seq": "1",
+  "r_word": "고래",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=399344&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "『동물』 포유강 고래목의 동물을 통틀어 이르는 말. 수중 생활에 적응된 포유류로 뒷다리는 퇴화하였고 앞다리는 지느러미 모양으로 변하였다. 털은 퇴화하였고 피부에는 두꺼운 지방층이 있다. 전 세계에 100여 종이 있으나 대부분이 멸종 위기에 처하여 국제적으로 보호받고 있다.≒경어, 경어, 경예.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e67"
+  },
+  "r_seq": "2",
+  "r_word": "고래",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=23904&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "방의 구들장 밑으로 나 있는, 불길과 연기가 통하여 나가는 길.=방고래.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e68"
+  },
+  "r_seq": "3",
+  "r_word": "고래",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=23905&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "술을 아주 많이 마시는 사람을 비유적으로 이르는 말.=술고래.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e69"
+  },
+  "r_seq": "4",
+  "r_word": "고래",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=24332&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "‘고리하여’가 줄어든 말.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e6a"
+  },
+  "r_seq": "1",
+  "r_word": "사진-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=172947&searchKeywordTo=3",
+  "r_hanja": "(仕進記)",
+  "r_des": "『역사』 벼슬아치의 출근을 기록하던 종이. 오늘날의 출근부와 비슷하다.≒사기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e6b"
+  },
+  "r_seq": "2",
+  "r_word": "사진-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=439766&searchKeywordTo=3",
+  "r_hanja": "(寫眞機)",
+  "r_des": "『영상』 사진을 찍는 기계. 광선이 새어 들어오지 못하도록 만든 상자의 앞쪽에 장치한 렌즈로부터 순간적으로 광선이 들어오게 하여 그 뒤에 있는 감광판(感光板)에 영상(映像)이 비치게 한다. 광선의 양을 조절하는 조리개, 일정한 시간을 노출하기 위한 셔터, 색채감을 조정하는 필터(filter), 찍는 물체의 위치를 정하는 파인더(finder) 따위의 장치가 있다.≒사진 기계, 카메라.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e6c"
+  },
+  "r_seq": "1",
+  "r_word": "그림",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=43106&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "선이나 색채를 써서 사물의 형상이나 이미지를 평면 위에 나타낸 것.≒회도, 회소.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e6d"
+  },
+  "r_seq": "2",
+  "r_word": "그림",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=43293&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "→ 그을음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e6e"
+  },
+  "r_seq": "3",
+  "r_word": "그림",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=43294&searchKeywordTo=3",
+  "r_hanja": "(Grimm, Friedrich Melchior von)",
+  "r_des": "『인명』 독일의 평론가(1723~1807). 디드로(Diderot, D.) 등과 ≪문학 서간(書簡)≫을 간행하였으며, 프랑스 문학에 정통하여 백과전서파의 자유사상을 폈다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e6f"
+  },
+  "r_seq": "4",
+  "r_word": "그림",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=401217&searchKeywordTo=3",
+  "r_hanja": "(Grimm, Jakob Ludwing Carl)",
+  "r_des": "『인명』 독일의 문헌학자ㆍ언어학자(1785~1863). 독일어학, 전설, 신화 따위의 연구에 일생을 바쳤고 동생과 함께 ≪독일어 사전≫, ≪어린이와 가정의 동화≫를 편찬하였다. 저서에 ≪독일 문법≫, ≪독일의 신화≫ 따위가 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e70"
+  },
+  "r_seq": "5",
+  "r_word": "그림",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=43295&searchKeywordTo=3",
+  "r_hanja": "(Grimm, Wilhelm)",
+  "r_des": "『인명』 독일의 문헌학자ㆍ언어학자(1786~1859). 그림(Grimm, J.)의 동생으로 저서에 ≪독일 영웅 전설≫이 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e71"
+  },
+  "r_seq": "6",
+  "r_word": "그림",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=43296&searchKeywordTo=3",
+  "r_hanja": "(Grimm, Hans Emil Wilhelm)",
+  "r_des": "『인명』 독일의 소설가(1875~1959). 작품에 <땅 없는 백성>이 있다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e72"
+  },
+  "r_seq": "",
+  "r_word": "메모",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=114973&searchKeywordTo=3",
+  "r_hanja": "(memo)",
+  "r_des": "다른 사람에게 말을 전하거나 자신의 기억을 돕기 위하여 짤막하게 글로 남김. 또는 그 글.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e73"
+  },
+  "r_seq": "",
+  "r_word": "노트-북",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=408416&searchKeywordTo=3",
+  "r_hanja": "(notebook)",
+  "r_des": "『정보·통신』 일상적으로 휴대하여 사용하기 편하도록 공책 크기로 만든 경량 컴퓨터.=노트북 컴퓨터.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e74"
+  },
+  "r_seq": "",
+  "r_word": "캐릭터",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=341760&searchKeywordTo=3",
+  "r_hanja": "(character)",
+  "r_des": "소설이나 연극 따위에 등장하는 인물. 또는 작품 내용 속에서 드러나는 인물의 개성과 이미지.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e75"
+  },
+  "r_seq": "",
+  "r_word": "인물",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=472977&searchKeywordTo=3",
+  "r_hanja": "(人物)",
+  "r_des": "생김새나 됨됨이로 본 사람.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e76"
+  },
+  "r_seq": "",
+  "r_word": "이벤트",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=470482&searchKeywordTo=3",
+  "r_hanja": "(event)",
+  "r_des": "여러 경기로 구성된 스포츠 경기에서, 각각의 경기를 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e77"
+  },
+  "r_seq": "1",
+  "r_word": "자료",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=275203&searchKeywordTo=3",
+  "r_hanja": "(自了)",
+  "r_des": "자기 혼자의 힘으로 일을 끝마침.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e78"
+  },
+  "r_seq": "2",
+  "r_word": "자료",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=275205&searchKeywordTo=3",
+  "r_hanja": "(紫蓼)",
+  "r_des": "『식물』 자줏빛 꽃이 피는 여뀌.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e79"
+  },
+  "r_seq": "3",
+  "r_word": "자료",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=275206&searchKeywordTo=3",
+  "r_hanja": "(資料)",
+  "r_des": "연구나 조사 따위의 바탕이 되는 재료.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e7a"
+  },
+  "r_seq": "1",
+  "r_word": "수집",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=449837&searchKeywordTo=3",
+  "r_hanja": "(收集)",
+  "r_des": "거두어 모음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e7b"
+  },
+  "r_seq": "2",
+  "r_word": "수집",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=199470&searchKeywordTo=3",
+  "r_hanja": "(蒐集)",
+  "r_des": "취미나 연구를 위하여 여러 가지 물건이나 재료를 찾아 모음. 또는 그 물건이나 재료.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e7c"
+  },
+  "r_seq": "3",
+  "r_word": "수집",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=199485&searchKeywordTo=3",
+  "r_hanja": "(蒐輯)",
+  "r_des": "여러 가지 자료를 찾아 모아서 책을 편집함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e7d"
+  },
+  "r_seq": "4",
+  "r_word": "수집",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=199488&searchKeywordTo=3",
+  "r_hanja": "(粹集)",
+  "r_des": "고갱이만 뽑아 모음.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e7e"
+  },
+  "r_seq": "1",
+  "r_word": "문자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=123176&searchKeywordTo=3",
+  "r_hanja": "(文字)",
+  "r_des": "예전부터 전하여 내려오는, 한자로 된 숙어나 성구(成句) 또는 문장.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e7f"
+  },
+  "r_seq": "2",
+  "r_word": "문자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=424414&searchKeywordTo=3",
+  "r_hanja": "(文字)",
+  "r_des": "『언어』 인간의 언어를 적는 데 사용하는 시각적인 기호 체계. 한자 따위의 표의 문자와 로마자, 한글 따위의 표음 문자로 대별된다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e80"
+  },
+  "r_seq": "3",
+  "r_word": "문자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=123177&searchKeywordTo=3",
+  "r_hanja": "(問字)",
+  "r_des": "남한테 글자를 배움.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e81"
+  },
+  "r_seq": "",
+  "r_word": "글-자",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=404056&searchKeywordTo=3",
+  "r_hanja": "(글字)",
+  "r_des": "말을 적는 일정한 체계의 부호.≒글, 글씨, 자.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e82"
+  },
+  "r_seq": "1",
+  "r_word": "학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=368712&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "급히 토하거나 뱉는 소리. 또는 그 모양.",
+  "r_pos": "「부사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e83"
+  },
+  "r_seq": "2",
+  "r_word": "학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=514636&searchKeywordTo=3",
+  "r_hanja": "(瘧)",
+  "r_des": "『의학』 말라리아 병원충을 가진 학질모기에게 물려서 감염되는 법정 감염병. 갑자기 고열이 나며 설사와 구토ㆍ발작을 일으키고 비장이 부으면서 빈혈 증상을 보인다.=말라리아.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e84"
+  },
+  "r_seq": "3",
+  "r_word": "학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=368716&searchKeywordTo=3",
+  "r_hanja": "(學)",
+  "r_des": "어떤 원리에 따라 조직된 지식의 체계.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e85"
+  },
+  "r_seq": "4",
+  "r_word": "학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=364276&searchKeywordTo=3",
+  "r_hanja": "(鶴)",
+  "r_des": "『동물』 두루밋과의 새. 몸의 길이는 1.4미터, 편 날개의 길이는 2.4미터, 부리는 15~17cm이며, 몸은 흰색이고 이마ㆍ목ㆍ다리와 날개 끝은 검은색이다. 머리 위에 살이 붉게 드러나 있으며 부리는 녹색이다. 풀밭에 주로 살며 겨울 철새로 한국, 일본, 중국 등지에서 겨울을 보내고 시베리아에서 번식한다. 우리나라 천연기념물이다.=두루미.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e86"
+  },
+  "r_seq": "5",
+  "r_word": "학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=503852&searchKeywordTo=3",
+  "r_hanja": "(鶴)",
+  "r_des": "『문학』 황순원이 지은 단편 소설. 동족상잔의 비극인 6ㆍ25 전쟁으로 인한 민족적 상처를 치유할 방법으로 민족적 동질성과 동족애의 회복을 상징적으로 제시하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e87"
+  },
+  "r_seq": "6",
+  "r_word": "-학",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=364277&searchKeywordTo=3",
+  "r_hanja": "(學)",
+  "r_des": "‘학문’의 뜻을 더하는 접미사.",
+  "r_pos": "「접사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e88"
+  },
+  "r_seq": "1",
+  "r_word": "특수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=500560&searchKeywordTo=3",
+  "r_hanja": "(特秀)",
+  "r_des": "‘특수하다’의 어근.",
+  "r_pos": ""
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e89"
+  },
+  "r_seq": "2",
+  "r_word": "특수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=500739&searchKeywordTo=3",
+  "r_hanja": "(特殊)",
+  "r_des": "특별히 다름.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e8a"
+  },
+  "r_seq": "3",
+  "r_word": "특수",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=348732&searchKeywordTo=3",
+  "r_hanja": "(特需)",
+  "r_des": "『경제』 특별한 상황에서 발생하는 수요.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e8b"
+  },
+  "r_seq": "",
+  "r_word": "특별",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=350680&searchKeywordTo=3",
+  "r_hanja": "(特別)",
+  "r_des": "보통과 구별되게 다름.≒특단.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e8c"
+  },
+  "r_seq": "1",
+  "r_word": "서울",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=445661&searchKeywordTo=3",
+  "r_hanja": "",
+  "r_des": "한 나라의 중앙 정부가 있는 곳.≒경궐, 경도, 경락, 경련, 경부, 경사, 경읍, 경조, 도부, 도읍.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e8d"
+  },
+  "r_seq": "2",
+  "r_word": "서울",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=184714&searchKeywordTo=3",
+  "r_hanja": "(暑鬱)",
+  "r_des": "『한의』 한의학에서, 더위가 심할 때 서늘하고 찬 곳에 있음으로써 양기가 속으로 몰리고 밖으로 나가지 못하여 생긴 우울증. 머리와 팔다리의 관절이 아프며 열이 나고 땀이 나지 않는다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e8e"
+  },
+  "r_seq": "1",
+  "r_word": "한양",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=505713&searchKeywordTo=3",
+  "r_hanja": "(寒羊)",
+  "r_des": "『동물』 양의 한 품종. 암컷은 40~70kg, 수컷은 20~50kg이며, 암수 모두 뿔이 없고 귀는 커서 축 늘어져 있다. 겨울을 보내기 위하여 꼬리에 지방을 저장한다. 모피와 가죽은 귀하게 여기며 중국 황허강(黃河江) 유역에서 많이 기른다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e8f"
+  },
+  "r_seq": "2",
+  "r_word": "한양",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361570&searchKeywordTo=3",
+  "r_hanja": "(閑養)",
+  "r_des": "한가로이 몸과 마음을 안정하여 휴양함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e90"
+  },
+  "r_seq": "3",
+  "r_word": "한양",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361572&searchKeywordTo=3",
+  "r_hanja": "(漢陽)",
+  "r_des": "『지명』 ‘서울’의 옛 이름.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e91"
+  },
+  "r_seq": "4",
+  "r_word": "한양",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=361573&searchKeywordTo=3",
+  "r_hanja": "(Hanyang[漢陽])",
+  "r_des": "『지명』 중국 후베이성(湖北省) 동쪽, 우한시(武漢市)를 이루는 우한 삼진(武漢三鎭)의 하나. 한수이강(漢水江)과 양쯔강(揚子江)이 합류하는 지점에 위치하고, 예로부터 군사상의 요충지이며 지금은 대규모의 철강 공업과 석탄 공업이 발달하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e92"
+  },
+  "r_seq": "1",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=485194&searchKeywordTo=3",
+  "r_hanja": "(祖先)",
+  "r_des": "돌아간 어버이 위로 대대의 어른.=조상.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e93"
+  },
+  "r_seq": "2",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=297768&searchKeywordTo=3",
+  "r_hanja": "(條線)",
+  "r_des": "금이나 선.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e94"
+  },
+  "r_seq": "3",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=485195&searchKeywordTo=3",
+  "r_hanja": "(造船)",
+  "r_des": "배를 설계하여 만듦.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e95"
+  },
+  "r_seq": "4",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=297770&searchKeywordTo=3",
+  "r_hanja": "(釣船)",
+  "r_des": "『수산업』 낚시로 고기잡이하는 데 쓰는 배.=낚싯배.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e96"
+  },
+  "r_seq": "5",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=485196&searchKeywordTo=3",
+  "r_hanja": "(朝鮮)",
+  "r_des": "『역사』 우리나라 최초의 국가. 기원전 2333년 무렵에 단군왕검이 세운 나라로, 중국의 요동과 한반도 서북부 지역에 자리 잡았으며, 위만(衛滿)이 집권한 이후 강력한 국가로 성장하였으나 기원전 108년에 중국 한(漢)나라에 멸망하였다.=고조선.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e97"
+  },
+  "r_seq": "6",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=298101&searchKeywordTo=3",
+  "r_hanja": "(漕船)",
+  "r_des": "물건을 실어 나르는 배.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e98"
+  },
+  "r_seq": "7",
+  "r_word": "조선",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=298104&searchKeywordTo=3",
+  "r_hanja": "(操船)",
+  "r_des": "배를 부림.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e99"
+  },
+  "r_seq": "1",
+  "r_word": "고려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=23372&searchKeywordTo=3",
+  "r_hanja": "(考慮)",
+  "r_des": "생각하고 헤아려 봄.≒고사.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e9a"
+  },
+  "r_seq": "2",
+  "r_word": "고려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=23375&searchKeywordTo=3",
+  "r_hanja": "(苦慮)",
+  "r_des": "애써 생각함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e9b"
+  },
+  "r_seq": "3",
+  "r_word": "고려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=22900&searchKeywordTo=3",
+  "r_hanja": "(高慮)",
+  "r_des": "남의 사려(思慮)를 높여 이르는 말.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e9c"
+  },
+  "r_seq": "4",
+  "r_word": "고려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=22901&searchKeywordTo=3",
+  "r_hanja": "(高麗)",
+  "r_des": "『역사』 918년에 왕건이 궁예를 내쫓고 개성에 도읍하여 세운 나라. 후삼국을 통일한 왕조로 불교와 유학을 숭상하였고, 문종 때 문물이 가장 발달하였으나 무신의 난 이후 외부의 침입에 시달리다가 1392년에 이성계에 의하여 망하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e9d"
+  },
+  "r_seq": "5",
+  "r_word": "고려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=22902&searchKeywordTo=3",
+  "r_hanja": "(鼓勵)",
+  "r_des": "북을 치고 춤을 춤.=고무.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e9e"
+  },
+  "r_seq": "6",
+  "r_word": "고려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=22904&searchKeywordTo=3",
+  "r_hanja": "(顧慮)",
+  "r_des": "이미 지난 일을 다시 돌이켜 생각함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3e9f"
+  },
+  "r_seq": "",
+  "r_word": "고구려",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=392345&searchKeywordTo=3",
+  "r_hanja": "(高句麗)",
+  "r_des": "『역사』 우리나라 삼국 시대의 삼국 가운데 동명왕 주몽이 기원전 37년에 세운 나라. 광개토 대왕 때에는 한반도 남부에서 요동 지방까지 영유하였으며, 668년에 신라와 중국 당나라의 연합군에게 멸망하였다.≒고려, 고리, 구려.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea0"
+  },
+  "r_seq": "1",
+  "r_word": "백제",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=139718&searchKeywordTo=3",
+  "r_hanja": "(白帝)",
+  "r_des": "『민속』 방위를 지키는 오방신장의 하나. 가을을 맡은 서쪽의 신이다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea1"
+  },
+  "r_seq": "2",
+  "r_word": "백제",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=431335&searchKeywordTo=3",
+  "r_hanja": "(百濟)",
+  "r_des": "『역사』 우리나라 삼국 시대의 삼국 가운데 한반도 서남부에 있던 나라. 기원전 18년에 온조왕이 위례성에 도읍하여 세운 뒤 한강 유역을 중심으로 발전하여 고이왕 때 고대 국가의 면모를 갖추었다. 중국의 남조(南朝), 일본 등과 우호 관계를 유지하였으며 일본 문화에 큰 영향을 끼쳤는데, 의자왕 20년(660)에 나당 연합군에게 패하여 멸망하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea2"
+  },
+  "r_seq": "",
+  "r_word": "신라",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=203830&searchKeywordTo=3",
+  "r_hanja": "(新羅)",
+  "r_des": "『역사』 우리나라 삼국 시대의 삼국 가운데 기원전 57년 박혁거세가 지금의 영남 지방을 중심으로 세운 나라. 수도를 경주로 하였고, 진흥왕 때에 가야를 병합하였으며, 태종 무열왕 때에 백제를, 문무왕 때에 고구려를 멸하고 삼국을 통일하였으나, 935년에 고려 태조 왕건에게 망하였다.≒사라, 서벌, 서야벌, 시라, 신로.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea3"
+  },
+  "r_seq": "1",
+  "r_word": "발해",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=434228&searchKeywordTo=3",
+  "r_hanja": "(渤海)",
+  "r_des": "『역사』 698년에 고구려의 장수였던 대조영이 고구려의 유민과 말갈족을 거느리고 동모산에 도읍하여 세운 나라. 수도는 건국 초기를 제외하고 상경 용천부에 두고 ‘해동성국’이라 불릴 만큼 국세를 떨쳤으나 926년 요나라에 망하였다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea4"
+  },
+  "r_seq": "2",
+  "r_word": "발해",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=135940&searchKeywordTo=3",
+  "r_hanja": "(發解/拔解)",
+  "r_des": "『역사』 과거의 초시에 합격함.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea5"
+  },
+  "r_seq": "",
+  "r_word": "임진-왜란",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=471300&searchKeywordTo=3",
+  "r_hanja": "(壬辰倭亂)",
+  "r_des": "『역사』 조선 선조 25년(1592)에 일본이 침입한 전쟁. 선조 31년(1598)까지 7년 동안 두 차례에 걸쳐 침입하였으며, 1597년에 재침략한 것을 정유재란으로 달리 부르기도 한다.≒왜란, 임란, 임진란.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea6"
+  },
+  "r_seq": "1",
+  "r_word": "전투-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=478990&searchKeywordTo=3",
+  "r_hanja": "(戰鬪記)",
+  "r_des": "전투의 체험, 견문, 감상 따위를 적은 글.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea7"
+  },
+  "r_seq": "2",
+  "r_word": "전투-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=287273&searchKeywordTo=3",
+  "r_hanja": "(戰鬪旗)",
+  "r_des": "『군사』 군함에서, 전투의 시작을 알리는 데 쓰는 기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea8"
+  },
+  "r_seq": "3",
+  "r_word": "전투-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=479170&searchKeywordTo=3",
+  "r_hanja": "(戰鬪機)",
+  "r_des": "『군사』 공중전을 주 임무로 하는 작고 민첩한 군용기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ea9"
+  },
+  "r_seq": "",
+  "r_word": "비행-기",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=438085&searchKeywordTo=3",
+  "r_hanja": "(飛行機)",
+  "r_des": "동력으로 프로펠러를 돌리거나 연소 가스를 내뿜는 힘에 의하여 생기는 양력(揚力)을 이용하여 공중으로 떠서 날아다니는 항공기. 1903년에 미국의 라이트 형제가 육상 비행을 한 것이 동력 비행의 맨 처음이며, 추진의 종류에 따라 프로펠러식과 분사식으로 나눈다.≒붕익, 비기.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3eaa"
+  },
+  "r_seq": "1",
+  "r_word": "선박",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178718&searchKeywordTo=3",
+  "r_hanja": "(船泊)",
+  "r_des": "배가 닻을 내리고 머무름.=정박.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3eab"
+  },
+  "r_seq": "2",
+  "r_word": "선박",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=178720&searchKeywordTo=3",
+  "r_hanja": "(船舶)",
+  "r_des": "사람이나 짐 따위를 싣고 물 위로 떠다니도록 나무나 쇠 따위로 만든 물건. 모양과 쓰임에 따라 보트, 나룻배, 기선(汽船), 군함(軍艦), 화물선, 여객선, 유조선 따위로 나눈다.=배.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3eac"
+  },
+  "r_seq": "1",
+  "r_word": "항해",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=368062&searchKeywordTo=3",
+  "r_hanja": "(沆瀣)",
+  "r_des": "밤의 맑은 이슬. 신선이 마신다고 한다.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3ead"
+  },
+  "r_seq": "2",
+  "r_word": "항해",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=368063&searchKeywordTo=3",
+  "r_hanja": "(航海)",
+  "r_des": "배를 타고 바다 위를 다님.≒주항, 해항.",
+  "r_pos": "「명사」"
+},{
+  "_id": {
+    "$oid": "6179ff5296c597687dbc3eae"
+  },
+  "r_seq": "",
+  "r_word": "나침-반",
+  "r_link": "https://stdict.korean.go.kr//search/searchView.do?word_no=58616&searchKeywordTo=3",
+  "r_hanja": "(羅針盤)",
+  "r_des": "『물리』 항공, 항해 따위에 쓰는 지리적인 방향 지시 계기. 자침(磁針)이 남북을 가리키는 특성을 이용하여 만든다.≒나침판, 자석반, 침반, 컴퍼스.",
+  "r_pos": "「명사」"
+}]
