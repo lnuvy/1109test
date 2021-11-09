@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lnuvy/1109test.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lnuvy/1109test.git/static/js/main.1f5a816f.chunk.js",
+    "main.js.map": "/lnuvy/1109test.git/static/js/main.1f5a816f.chunk.js.map",
+    "runtime-main.js": "/lnuvy/1109test.git/static/js/runtime-main.e700ff0f.js",
+    "runtime-main.js.map": "/lnuvy/1109test.git/static/js/runtime-main.e700ff0f.js.map",
+    "static/js/2.20feb1f1.chunk.js": "/lnuvy/1109test.git/static/js/2.20feb1f1.chunk.js",
+    "static/js/2.20feb1f1.chunk.js.map": "/lnuvy/1109test.git/static/js/2.20feb1f1.chunk.js.map",
+    "static/js/3.b1f24c2b.chunk.js": "/lnuvy/1109test.git/static/js/3.b1f24c2b.chunk.js",
+    "static/js/3.b1f24c2b.chunk.js.map": "/lnuvy/1109test.git/static/js/3.b1f24c2b.chunk.js.map",
+    "index.html": "/lnuvy/1109test.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lnuvy/1109test.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.20feb1f1.chunk.js.LICENSE.txt": "/lnuvy/1109test.git/static/js/2.20feb1f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e700ff0f.js",
+    "static/js/2.20feb1f1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1f5a816f.chunk.js"
+  ]
+}
