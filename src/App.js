@@ -11,7 +11,7 @@ class App extends Component {
     super(props)
     this.state = {
       loading: true,
-      words: []
+      dics: []
     }
   }
 
@@ -22,15 +22,18 @@ class App extends Component {
     fetch(BASE_URL)
     .then( res => res.json())
     .then( result => {
-      console.log(result)
+      console.log(result + "!!!!!!!!!!!!!!!!!!!")
       const {words} = result
-      this.setState({loading: false, words})
+
+      const asdf = {words: "r_word"}
+      console.log(asdf.toString + "!!!!!!!!!!!!!!!")
+      this.setState({loading: false, dics : words}) // 여기
     })
   }
 
 
   render() {
-    const { loading, words } = this.state
+    const { loading, dics } = this.state
 
     if(loading) {
       return (
@@ -41,7 +44,7 @@ class App extends Component {
     } else {
       return (
         <div>
-          {words.map(dic => {
+          {dics.map(dic => {
             return (
               <Dic
               key={dic._id}
