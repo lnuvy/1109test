@@ -2,7 +2,7 @@
 import './App.css';
 import React from 'react';
 import { Component } from 'react';
-import Dic from './Dic';
+import Dic from './Dictionary';
 
 
 class App extends Component {
@@ -52,7 +52,8 @@ class App extends Component {
               r_seq={dic.r_seq}
               r_pos={dic.r_pos}
               r_hanja={dic.r_hanja}
-              r_des={dic.r_des}>
+              r_des={dic.r_des}
+              r_link={dic.r_link}>
               </Dic>
             )
           })}
